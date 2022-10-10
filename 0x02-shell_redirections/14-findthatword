@@ -1,2 +1,2 @@
-#!/bin/barootsh
-grep -i "
+#!/bin/bash
+grep -i "root" /etc/passwd
