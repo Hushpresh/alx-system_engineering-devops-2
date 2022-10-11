@@ -1,2 +1,1 @@
-#!/bin/bash
-My readme file
+my first readme file for this directory
